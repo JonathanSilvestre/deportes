@@ -1,4 +1,4 @@
-package mx.uam.integracion.deportes.controllers;
+package mx.uam.integracion.deportes.Controllers;
 
 import org.springframework.web.bind.annotation.*;
 
